@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID:UTC
+END:VTIMEZONE
+BEGIN:VEVENT
+CLASS:PUBLIC
+SUMMARY:La empresa biónica
+DTSTART:20201126T100000
+DTEND:20201126T110000
+LOCATION: undefined
+URL: http://eventosycvonferenciasue.com/eventos/la-empresa-bionica?p=2453&redirect=http%3A%2F%2Fwww.eventosyconferenciasue.com%2Fgracias-por-tu-compra%2F
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
